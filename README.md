@@ -12,4 +12,4 @@
     - Update employee role
 
 ## Usage
-- >npm start
+- >-npm start
