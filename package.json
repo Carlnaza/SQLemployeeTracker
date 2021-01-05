@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Carlnaza/SQLemployeeTracker#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "console.table": "^0.10.0",
     "inquirer": "^7.0.4",
     "mysql2": "^2.1.0"
